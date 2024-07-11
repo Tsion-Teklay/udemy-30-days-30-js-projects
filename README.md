@@ -4,4 +4,5 @@ Each project is designed to help you improve your JavaScript skills by building 
 
 ## list of projects
 project 1: Speech to Text Converter
+project 2: Piano Application
 
