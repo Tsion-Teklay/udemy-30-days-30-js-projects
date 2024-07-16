@@ -8,3 +8,4 @@ project 2: Piano Application
 project 3: Text to Speech converter
 project 4: Robot Joke Generator
 project 5: HSL color generator
+project 6: Modal application
