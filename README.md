@@ -11,3 +11,4 @@ project 5: HSL color generator
 project 6: Modal application
 project 7: Digital clock
 project 8: Color Flipper
+project 9: Percentage Calculator
